@@ -6,3 +6,5 @@ For some of these scripts, it is necessary to have a available NVIDIA GPU, due t
 Although I used accelerated algorithms in this project, one may try to avoid the necessity for local execution if a suitable GPU is not available by utilizing the NetworkX and Pandas packages. However, be aware that Python execution times for large networks skyrocket.
 
 The parameter analysis scripts, frequency distribution analysis scripts, and IPython notebooks -- for a more visible implementation of the other scripts -- will be the three primary folders that make up this repository. Additionally, there will be two distinct scenarios: one in which we only attempt to acquire the configuration for a certain weight threshold, and another in which we attempt to obtain the configurations using threshold percentages.
+
+## Sections that require improvement:
